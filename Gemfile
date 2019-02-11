@@ -37,6 +37,8 @@ gem 'bootsnap', '1.3.2', require: false
 
 gem 'bootstrap-sass', '3.3.7'
 
+gem 'bcrypt', '3.1.12'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '1.3.13'
